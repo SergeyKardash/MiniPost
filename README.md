@@ -16,6 +16,12 @@ To serve in the browser  - Runs webpack-dev-server
 $ npm start
 ```
 
+### Serve local REST API using JSON-SERVER
+
+```sh
+$ npm run json:server
+```
+
 ### Build
 Compile and build
 
